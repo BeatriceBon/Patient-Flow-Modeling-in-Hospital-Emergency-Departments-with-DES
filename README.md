@@ -6,5 +6,6 @@ The DES approach enables the identification of operational bottlenecks and the e
 Key performance measures such as average waiting times, queue lengths, and service utilization rates across essential services: triage, doctor consultations, diagnostics, treatments, discharges, and admissions, were analyzed.   
 These metrics are very important for understanding the dynamics of patient flow and for implementing effective management strategies.
 The results from this simulation provide actionable insights that can improve patient management and satisfaction by reducing wait times and ensuring that critical resources are available when needed. This study demonstrates the practical applications of discrete event simulation technologies in healthcare settings, offering a tool for future enhancements in emergency department operations.
-
+# code
+-"ED_Descrete_Event_Simulation.ipynb"
 
