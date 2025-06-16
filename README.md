@@ -1,4 +1,9 @@
 # Patient-Flow-Modeling-in-Hospital-Emergency-Departments-with-DES
+
+<p align="center">
+  <img src="images/Emergency_Department_modeling.png" alt="Patients Flow in ED" width="950"/>
+</p>
+
 This is the final project for the 'Discrete Events and Hybrid Systems' course taken at Boston University.
 
 This study presents a discrete event simulation (DES) model developed using the SimPy library to model, analyze and enhance patient flow within an emergency department (ED) of a U.S. hospital.Recognizing the critical need for efficient healthcare delivery, especially in busy emergency settings, the model incorporates real-world data on patient arrivals and distributions to simulate daily operations accurately.    
